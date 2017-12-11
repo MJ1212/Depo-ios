@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>46630597801-n81dik3f5er690v96fnsur3ugq1luvuv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.46630597801-n81dik3f5er690v96fnsur3ugq1luvuv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDzqUHT2qZm_qkU9e-RPDK_f0XiFP3wSKQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>46630597801</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.Depo</string>
+	<key>PROJECT_ID</key>
+	<string>depo-d78bf</string>
+	<key>STORAGE_BUCKET</key>
+	<string>depo-d78bf.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:46630597801:ios:d05dbf673a9ee89a</string>
+	<key>DATABASE_URL</key>
+	<string>https://depo-d78bf.firebaseio.com</string>
+</dict>
+</plist>
